@@ -1,6 +1,6 @@
 #  FEWDS GUIDE TO THE UNIVERSE of web dev
 ## HTML
-HTML Cheat Sheet - [here](https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX0BJt2Fg4m2o/view)
+- HTML Cheat Sheet - [here](https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX0BJt2Fg4m2o/view)
 
 ## CSS
 ### Basics
