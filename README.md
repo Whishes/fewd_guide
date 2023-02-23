@@ -3,6 +3,7 @@
 HTML Cheat Sheet - [here](https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX0BJt2Fg4m2o/view)
 
 ## CSS
+### Basics
 Selectors - [here](https://www.w3schools.com/cssref/css_selectors.php)
 
 Default Color Names - [here](https://www.w3schools.com/cssref/css_colors.php)
@@ -11,4 +12,5 @@ Specificity - [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificit
 
 Semantics - [here](https://drive.google.com/file/d/1ZHYFov7OGasONOTKRYbmOJUAbRXEyC8v/view)
 
-## JavaScript
+### FlexBox
+Complete Guide to Flexbox - [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
