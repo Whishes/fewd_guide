@@ -4,13 +4,13 @@ HTML Cheat Sheet - [here](https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX
 
 ## CSS
 ### Basics
-Selectors - [here](https://www.w3schools.com/cssref/css_selectors.php)
+- Selectors - [here](https://www.w3schools.com/cssref/css_selectors.php)
 
-Default Color Names - [here](https://www.w3schools.com/cssref/css_colors.php)
+- Default Color Names - [here](https://www.w3schools.com/cssref/css_colors.php)
 
-Specificity - [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+- Specificity - [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
-Semantics - [here](https://drive.google.com/file/d/1ZHYFov7OGasONOTKRYbmOJUAbRXEyC8v/view)
+- Semantics - [here](https://drive.google.com/file/d/1ZHYFov7OGasONOTKRYbmOJUAbRXEyC8v/view)
 
 ### FlexBox
-Complete Guide to Flexbox - [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Complete Guide to Flexbox - [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
