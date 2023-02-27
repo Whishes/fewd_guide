@@ -8,9 +8,22 @@
 
 - Default Color Names - [here](https://www.w3schools.com/cssref/css_colors.php)
 
+- Coolors Colour Combination Generator - [here](https://coolors.co/)
+
 - Specificity - [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
 - Semantics - [here](https://drive.google.com/file/d/1ZHYFov7OGasONOTKRYbmOJUAbRXEyC8v/view)
 
+- Box-Sizing - [here](https://css-tricks.com/box-sizing/)
+
+- Values and Units - [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+
+- Borders - [here](https://www.w3schools.com/cssref/pr_border.php)
+
 ### FlexBox
 - Complete Guide to Flexbox - [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Learning Games
+- Flexbox Froggy - [here](https://flexboxfroggy.com/)
+
+- Grid Garden - [here](https://cssgridgarden.com/)
