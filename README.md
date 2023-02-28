@@ -20,8 +20,13 @@
 
 - Borders - [here](https://www.w3schools.com/cssref/pr_border.php)
 
-### FlexBox
+### Flexbox
 - Complete Guide to Flexbox - [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- Flexbox Use Cases - [here](https://www.smashingmagazine.com/2018/10/flexbox-use-cases/)
+
+### Grid 
+- Complete Guide to Grid - [here](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Learning Games
 - Flexbox Froggy - [here](https://flexboxfroggy.com/)
