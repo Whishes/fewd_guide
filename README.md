@@ -22,6 +22,8 @@
 
 - Borders - [here](https://www.w3schools.com/cssref/pr_border.php)
 
+- How to darken an image - [here](https://dev.to/nazanin_ashrafi/how-to-darken-an-image-with-css-4f5h)
+
 ### Flexbox
 - Complete Guide to Flexbox - [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
