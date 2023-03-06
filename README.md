@@ -10,6 +10,8 @@
 
 - Pseudo class selectors - [here](https://css-tricks.com/pseudo-class-selectors/)
 
+- Before & After pseudo elements - [here (youtube vid)](https://youtu.be/zGiirUiWslI)
+
 - Default Color Names - [here](https://www.w3schools.com/cssref/css_colors.php)
 
 - Coolors Colour Combination Generator - [here](https://coolors.co/)
