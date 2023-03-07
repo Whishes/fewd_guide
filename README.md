@@ -34,6 +34,9 @@
 ### Grid 
 - Complete Guide to Grid - [here](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+### Responsiveness
+- Using Media Queries - [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
 ### Learning Games
 - Flexbox Froggy - [here](https://flexboxfroggy.com/)
 
