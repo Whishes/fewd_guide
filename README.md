@@ -43,3 +43,7 @@
 - Flexbox Froggy - [here](https://flexboxfroggy.com/)
 
 - Grid Garden - [here](https://cssgridgarden.com/)
+
+## JavaScript
+### General
+- Element.classList - [here](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
