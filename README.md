@@ -9,6 +9,8 @@
 
 - Semantics - [here](https://drive.google.com/file/d/1ZHYFov7OGasONOTKRYbmOJUAbRXEyC8v/view)
 
+- Forms - [here](https://www.w3schools.com/html/html_forms.asp)
+
 ## CSS
 ### General
 - Selectors - [here](https://www.w3schools.com/cssref/css_selectors.php)
