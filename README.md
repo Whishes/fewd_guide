@@ -2,6 +2,8 @@
 
 - Frontend Developer Roadmap - [here](https://roadmap.sh/frontend)
 
+- Pseduocode - [here](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/)
+
 ## HTML
 - HTML Cheat Sheet - [here](https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX0BJt2Fg4m2o/view)
 
@@ -49,4 +51,13 @@
 
 ## JavaScript
 ### General
+- DOM Events - [here](https://www.w3schools.com/js/js_htmldom_events.asp)
+
+- DOM Element Object Methods and Properties - [here](https://www.w3schools.com/jsref/dom_obj_all.asp)
+
+### Useful Properties & Methods
+- Element.addEventListener - [here](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
 - Element.classList - [here](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+
+- Element.textContent - [here](https://www.w3schools.com/jsref/prop_node_textcontent.asp)
