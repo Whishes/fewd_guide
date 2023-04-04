@@ -4,6 +4,10 @@
 
 - Pseduocode - [here](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/)
 
+- VS Code Cheatsheet (Windows) - [here](https://quickref.me/vscode.html#keyboard-shortcuts-for-windows)
+
+- VS Code Cheatsheet (Mac) - [here](https://quickref.me/vscode.html#keyboard-shortcuts-for-macos)
+
 ## HTML
 - HTML Cheat Sheet - [here](https://drive.google.com/file/d/1Cdgm7UfN03xK4qRbXiKzX0BJt2Fg4m2o/view)
 
